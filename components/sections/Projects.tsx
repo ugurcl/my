@@ -1,10 +1,9 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ExternalLink, Github, Globe, Server, Database, Code2, Briefcase, FileSearch } from "lucide-react";
+import { Globe, Server, Database, Code2, Briefcase, FileSearch } from "lucide-react";
 import { Card } from "@/components/ui/card";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 
 const projects = [
   {

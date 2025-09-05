@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { Briefcase, Calendar, MapPin, Code2, Database, Globe, Server } from "lucide-react";
+import { Calendar, MapPin, Code2, Database, Globe, Server } from "lucide-react";
 
 const experiences = [
   {

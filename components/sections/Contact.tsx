@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion } from "framer-motion";
-import { Mail, MapPin, Phone, Send, AlertCircle, CheckCircle, Github, Linkedin } from "lucide-react";
+import { Mail, MapPin, Send, AlertCircle, CheckCircle, Github, Linkedin } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
 import { validateContactForm, sanitizeInput, FormErrors } from "@/lib/validation";
